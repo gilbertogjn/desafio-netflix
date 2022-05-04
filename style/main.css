@@ -22,7 +22,7 @@ body {
 
 header {
     z-index: 1000;
-    background-color: #E50914;
+    background-color: rgba(0, 0, 0, .50);
 }
 
 header .container {
