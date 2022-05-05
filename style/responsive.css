@@ -3,6 +3,7 @@
         display: flex;
         flex-direction: column;
         margin-bottom: -85px;
+        padding-top: 12px;
     }
 
     header nav {
@@ -30,7 +31,7 @@
 
 @media screen and (min-width: 701px) and (max-width: 999px) {
     .filme-principal {
-        height: 65vh;
+        height: 70vh;
         min-height: 670px;
     }
 
@@ -45,14 +46,14 @@
     }
 
     .filme-principal {
-        height: 65vh;
-        min-height: 670px;
+        height: 70vh;
+        min-height: 770px;
     }
 }
 
-@media screen and (min-width: 1600px) {
+@media screen and (min-width: 1920px) {
     .filme-principal {
         height: 60vw;
-        max-height: 1100px;
+        max-height: 1000px;
     }
 }
